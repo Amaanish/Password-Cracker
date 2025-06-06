@@ -162,16 +162,6 @@ dictmethod("password")       # Dictionary attack
 hybridmethod("Admin123!")    # Hybrid attack
 ```
 
-### Performance Testing
-```python
-import time
-
-# Time different methods
-start = time.time()
-dictmethod("123456")
-print(f"Dictionary attack took: {time.time() - start:.4f}s")
-```
-
 ## Attack Method Comparison
 
 | Method | Speed | Success Rate | Resource Usage | Best For |
