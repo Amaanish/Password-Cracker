@@ -20,15 +20,15 @@ A simple Python-based password cracking tool that demonstrates three different p
 ## Prerequisites
 
 - Python 3.11.6 installed on your system
-- A wordlist file (`wordlist.txt`) for dictionary and hybrid attacks (You can use your own wordlist or the txt file provided)
+- A wordlist file (`wordlist.txt`) for dictionary and hybrid attacks (You can use your own wordlist or the .txt file provided)
 - Basic understanding of password security concepts
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Amaanish/password-cracker.git
-cd password-cracker
+git clone https://github.com/Amaanish/Password-Cracker.git
+cd Password-Cracker
 ```
 
 2. Prepare your wordlist file:
@@ -39,7 +39,7 @@ cd password-cracker
 
 3. Run the script:
 ```bash
-python password_cracker.py
+python Password Cracker.py
 ```
 
 ## Attack Methods
