@@ -39,7 +39,7 @@ cd Password-Cracker
 
 3. Run the script:
 ```bash
-python Password Cracker.py
+python3 Password Cracker.py
 ```
 
 ## Attack Methods
